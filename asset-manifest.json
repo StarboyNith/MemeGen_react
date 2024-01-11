@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/MemeGen_react/static/js/main.aec6eb8d.js",
+    "main.css": "/MemeGen_react/static/css/main.4332ef4d.css",
+    "main.js": "/MemeGen_react/static/js/main.b5867513.js",
     "index.html": "/MemeGen_react/index.html",
-    "main.aec6eb8d.js.map": "/MemeGen_react/static/js/main.aec6eb8d.js.map"
+    "main.4332ef4d.css.map": "/MemeGen_react/static/css/main.4332ef4d.css.map",
+    "main.b5867513.js.map": "/MemeGen_react/static/js/main.b5867513.js.map"
   },
   "entrypoints": [
-    "static/js/main.aec6eb8d.js"
+    "static/css/main.4332ef4d.css",
+    "static/js/main.b5867513.js"
   ]
 }
