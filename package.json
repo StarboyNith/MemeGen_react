@@ -1,15 +1,21 @@
 {
+  "homepage": "https://starboynith.github.io/MemeGen_react",
   "name": "project",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "css-loader": "^6.9.0",
     "react-scripts": "^5.0.1",
-    "@babel/plugin-proposal-private-property-in-object": "^1.0.0"
+    "style-loader": "^3.3.4"
   },
   "browserslist": {
     "production": [

@@ -56,9 +56,11 @@ main {
     font-family: "Karla", sans-serif;
     border-radius: 5px;
     background: linear-gradient(90deg, #1f196e 10%, #5b71f0 100%);
-    color: white;
+    color: red;
     border: none;
     cursor: pointer;
+
+
 }
 
 .meme {
